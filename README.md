@@ -286,7 +286,7 @@ Having issues? We're here to help!
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Madhav Bagri](https://github.com/Madhav-M01)**
 
 ⭐ Star this repo if you found it helpful!
 
